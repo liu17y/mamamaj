@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd37d50c-b356-4364-a269-47c99f18eb40" name="Default Changelist" comment="" />
+    <list default="true" id="cd37d50c-b356-4364-a269-47c99f18eb40" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/gitused/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitused/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitused/testAAA/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitused/testAAA/src/main/java/com/gzy/gituse/application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitused/testAAA/src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitused/testAAA/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitused/testAAA/target/classes/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitused/testAAA/target/classes/com/gzy/gituse/application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitused/testAAA/target/classes/templates/index.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +24,7 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gituse" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -56,7 +66,7 @@
       <updated>1699869088579</updated>
       <workItem from="1699869089963" duration="1632000" />
       <workItem from="1699872386979" duration="39000" />
-      <workItem from="1699873268110" duration="21000" />
+      <workItem from="1699873268110" duration="297000" />
     </task>
     <servers />
   </component>
